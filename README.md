@@ -1,5 +1,5 @@
-# Ex.05 Design a Website for Server Side Processing
-## Date: 24.11.2025
+# EX 05 Design a Website for Server Side Processing
+## Date: 09.10.2025
 ## Developed by : AKASH G
 ## Register No. : 212224100004
 ## AIM:
